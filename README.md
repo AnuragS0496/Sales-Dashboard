@@ -40,3 +40,7 @@ Time Series Forecasting
 **Custom visuals:** Donut Charts, Area Line Charts, Map Visuals, Forecast Lines
 Slicers for interactive region filtering
 
+
+
+![Sales Forecast](https://github.com/user-attachments/assets/76802026-49f3-4161-8bfe-4070ab5bd344)
+![Sales dashboard](https://github.com/user-attachments/assets/033d1ab3-3178-478b-9db9-bb53828629aa)
